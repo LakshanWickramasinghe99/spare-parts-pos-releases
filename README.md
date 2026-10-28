@@ -1,4 +1,6 @@
 # spare-parts-pos-releases
 
 # test01
-v 1.0.0
+
+fix bugs, improvement
+v 1.0.1
